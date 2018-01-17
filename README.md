@@ -1,2 +1,2 @@
 # ARUCANEWI
-ArduinoUno_CAN_NMEA2K_1Wire
+Arduino_DUE_CAN_NMEA2K
